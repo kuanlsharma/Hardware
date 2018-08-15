@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">技术参数</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">技术参数</text></para>
+    </header>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_1" styleclass="Normal" style="font-size:12pt;" translate="true">电压源、电流源</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_2" styleclass="Normal" style="font-size:12pt;" translate="true">光模块通讯</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_3" styleclass="Normal" style="font-size:12pt;" translate="true">开入量</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_4" styleclass="Normal" style="font-size:12pt;" translate="true">开出量</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_5" styleclass="Normal" style="font-size:12pt;" translate="true">小信号输出</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_6" styleclass="Normal" style="font-size:12pt;" translate="true">辅助直流</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_7" styleclass="Normal" style="font-size:12pt;" translate="true">以太网接口</link></li>
+      <li styleclass="Normal"><link displaytype="text" defaultstyle="true" type="topiclink" href="module_4_8" styleclass="Normal" style="font-size:12pt;" translate="true">电源及其它</link></li>
+    </list>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

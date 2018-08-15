@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800427">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="支持">
+	<param name="Local" value="support.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="简介">
+	<param name="Local" value="module_2.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="选型参考">
+	<param name="Local" value="ordering_reference.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="安全注意事项">
+	<param name="Local" value="safe_operation.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="面板说明">
+	<param name="Local" value="panel_descriptions.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="前面板">
+	<param name="Local" value="module_3_1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="后面板和侧面板">
+	<param name="Local" value="module_3_3.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="技术参数">
+	<param name="Local" value="new_topic.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="电压源、电流源">
+	<param name="Local" value="module_4_1.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="机型: 7x300V / 6x32A">
+	<param name="Local" value="module_4_1_1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="机型: 4x300V / 6x32A">
+	<param name="Local" value="module_4_1_2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="机型: 4x300V / 3x32A">
+	<param name="Local" value="module_4_1_3.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="光模块通讯">
+	<param name="Local" value="module_4_2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="开入量">
+	<param name="Local" value="module_4_3.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="开出量">
+	<param name="Local" value="module_4_4.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="小信号输出">
+	<param name="Local" value="module_4_5.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="辅助直流">
+	<param name="Local" value="module_4_6.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="以太网接口">
+	<param name="Local" value="module_4_7.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="电源及其它">
+	<param name="Local" value="module_4_8.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="选配功能模块">
+	<param name="Local" value="optional_modules.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="电能表校验">
+	<param name="Local" value="module_5_1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="变送器校验">
+	<param name="Local" value="module_5_2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="标准表&amp;暂态录波">
+	<param name="Local" value="module_5_3.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="IEC61850 SMV &amp; GOOSE">
+	<param name="Local" value="module_5_5.htm">
+</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="附件">
+	<param name="Local" value="module_6.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="标准附件">
+	<param name="Local" value="standard_accessories.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="选配附件">
+	<param name="Local" value="optional_accessories.htm">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="快速开出和电能脉冲适配器">
+	<param name="Local" value="module_6_1.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="C-Shunt 电流测量取样器">
+	<param name="Local" value="module_6_2.htm">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="小信号输出适配器">
+	<param name="Local" value="module_6_3.htm">
+</OBJECT>
+</UL>
+</UL>
+</UL>
+</BODY></HTML>

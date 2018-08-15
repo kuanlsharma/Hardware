@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">安全注意事项</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">安全注意事项</text></para>
+    </header>
+    <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">请在熟读并了解本手册的内容后再操作此仪器！！！</text></para>
+    <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">禁止将仪器主机电源接入非标称电源或者直流电源。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">仪器在试验状态时,不要进行接线和换线工作,避免将外部源引入到仪器输出端子,使仪器损坏.</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">试验之前，接地线插孔必须可靠接地，以防止测试仪运行中机身感应静电。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">禁止将外部电压源或电流源引入测试仪电压、电流输出端口，以防损坏测试仪。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">电压回路不能短路或过载，电流回路的负载应根据技术参数中所给定的阻抗值，以免过载影响试验结果。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">当电压源出现过载或短路时，测试仪自动切断功放电源并中断试验，同时发出告警信号。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">如果大电流输出时间过长，功放温升过高时，测试仪将自动关闭功放电源，并给出告警音，此时应停止试验，直至功放冷却后方可继续试验。</text><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">建议将仪器平放使用，并保证在仪器工作时出风口通畅。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">仪器出现异常状况时，请联系厂家，切勿自行拆机维修。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">如果试验过程中出现紧急问题，迅速关闭主机电源。</text></li>
+    </list>
+    <para style="text-align:justify; text-indent:-28px; margin-left:28px;"></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" style="text-align:justify; text-indent:-28px; margin-left:28px; font-family:Symbol; font-size:12pt; color:#000000;">
+      <li style="text-align:justify; text-indent:-28px; margin-left:28px;"><text styleclass="Font Style" style="font-family:??ì?; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">仪器长时间不用应放回包装箱内。</text></li>
+    </list>
+    <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

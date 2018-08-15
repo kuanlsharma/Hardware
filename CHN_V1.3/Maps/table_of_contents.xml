@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="430075988877667" build="CHM,EBOOK" modified="2017-10-13T14:00:18.100Z" icon="0" href="application">
+    <caption translate="true">K31使用说明</caption>
+  </topicref>
+  <topicref type="topic" id="430203590581205" build="ALL" modified="2017-10-13T14:04:02.563Z" icon="0" href="Support">
+    <caption translate="true">支持</caption>
+  </topicref>
+  <topicref type="topic" id="43006321833109" build="ALL" modified="2017-10-13T14:04:08.704Z" icon="0" href="module_2">
+    <caption translate="true">简介</caption>
+    <topicref type="topic" id="430205600311358" modified="2017-10-13T09:07:01.150Z" icon="0" href="Able_to_test">
+      <caption translate="true">Able to test</caption>
+    </topicref>
+    <topicref type="topic" id="430204163318452" build="ALL" modified="2017-10-13T09:16:14.827Z" icon="0" href="Ordering_Reference">
+      <caption translate="true">选型参考</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430202074258488" build="ALL" modified="2017-10-13T14:04:13.148Z" icon="0" href="Safe_Operation">
+    <caption translate="true">安全注意事项</caption>
+  </topicref>
+  <topicref type="topic" id="430196489472548" build="ALL" modified="2017-10-13T14:04:17.491Z" icon="0" href="Panel_descriptions">
+    <caption translate="true">面板说明</caption>
+    <topicref type="topic" id="43009320970190" build="ALL" modified="2017-10-13T09:08:29.996Z" icon="0" href="module_3_1">
+      <caption translate="true">前面板</caption>
+    </topicref>
+    <topicref type="topic" id="43005985134300" build="ALL" modified="2017-10-13T09:08:42.717Z" icon="0" href="module_3_3">
+      <caption translate="true">后面板和侧面板</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430196450217310" build="ALL" modified="2017-10-13T14:04:22.289Z" icon="0" href="New_topic">
+    <caption translate="true">技术参数</caption>
+    <topicref type="topic" id="43007918841084" build="ALL" modified="2017-10-13T09:30:25.453Z" icon="0" href="module_4_1">
+      <caption translate="true">电压源、电流源</caption>
+      <topicref type="topic" id="43008363723148" build="ALL" modified="2018-04-10T17:55:02.357Z" icon="0" href="module_4_1_1">
+        <caption translate="true">机型: 7x310V / 6x35A</caption>
+      </topicref>
+      <topicref type="topic" id="43008956552952" build="ALL" modified="2018-04-10T17:55:11.199Z" icon="0" href="module_4_1_2">
+        <caption translate="true">机型: 4x310V / 6x35A</caption>
+      </topicref>
+      <topicref type="topic" id="43008676934611" build="ALL" modified="2018-04-10T17:55:18.688Z" icon="0" href="module_4_1_3">
+        <caption translate="true">机型: 4x310V / 3x35A</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43005710190270" build="ALL" modified="2017-10-13T09:38:35.377Z" icon="0" href="module_4_2">
+      <caption translate="true">光模块通讯</caption>
+    </topicref>
+    <topicref type="topic" id="43007064066653" build="ALL" modified="2017-10-13T09:38:43.890Z" icon="0" href="module_4_3">
+      <caption translate="true">开入量</caption>
+    </topicref>
+    <topicref type="topic" id="43009705802717" build="ALL" modified="2017-10-13T09:38:52.206Z" icon="0" href="module_4_4">
+      <caption translate="true">开出量</caption>
+    </topicref>
+    <topicref type="topic" id="43005764409454" build="ALL" modified="2017-10-13T09:38:58.220Z" icon="0" href="module_4_5">
+      <caption translate="true">小信号输出</caption>
+    </topicref>
+    <topicref type="topic" id="43006117239994" build="ALL" modified="2017-10-13T09:39:06.084Z" icon="0" href="module_4_6">
+      <caption translate="true">辅助直流</caption>
+    </topicref>
+    <topicref type="topic" id="43007784020608" build="ALL" modified="2017-10-13T09:39:12.909Z" icon="0" href="module_4_7">
+      <caption translate="true">以太网接口</caption>
+    </topicref>
+    <topicref type="topic" id="43009059341138" build="ALL" modified="2017-10-13T09:39:31.743Z" icon="0" href="module_4_8">
+      <caption translate="true">电源及其它</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="430198051392672" build="ALL" modified="2017-10-13T14:04:32.380Z" icon="0" href="Optional_Modules">
+    <caption translate="true">选配功能模块</caption>
+    <topicref type="topic" id="43007484582602" build="ALL" modified="2017-10-13T10:52:40.044Z" icon="0" href="module_5_1">
+      <caption translate="true">电能表校验</caption>
+    </topicref>
+    <topicref type="topic" id="43008082510176" build="ALL" modified="2017-10-13T10:52:46.650Z" icon="0" href="module_5_2">
+      <caption translate="true">变送器校验</caption>
+    </topicref>
+    <topicref type="topic" id="43008243289829" build="ALL" modified="2017-10-13T10:53:04.546Z" icon="0" href="module_5_3">
+      <caption translate="true">标准表&amp;暂态录波</caption>
+    </topicref>
+    <topicref type="topic" id="43005760152794" build="ALL" modified="2017-09-29T17:15:41.180Z" icon="0" href="module_5_5">
+      <caption translate="true">IEC61850 SMV &amp; GOOSE</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="43006012897944" build="ALL" modified="2017-10-13T14:04:39.947Z" icon="0" href="module_6">
+    <caption translate="true">附件</caption>
+    <topicref type="topic" id="430205453378132" build="ALL" modified="2017-10-13T10:53:14.941Z" icon="0" href="Standard_Accessories">
+      <caption translate="true">标准附件</caption>
+    </topicref>
+    <topicref type="topic" id="430204028138882" build="ALL" modified="2017-10-13T10:53:20.422Z" icon="0" href="Optional_Accessories">
+      <caption translate="true">选配附件</caption>
+      <topicref type="topic" id="43006013734880" build="ALL" modified="2017-10-13T10:51:06.524Z" icon="0" href="module_6_1">
+        <caption translate="true">快速开出和电能脉冲适配器</caption>
+      </topicref>
+      <topicref type="topic" id="43006939169193" build="ALL" modified="2017-10-13T12:47:00.591Z" icon="0" href="module_6_2">
+        <caption translate="true">C-Shunt 电流测量取样器</caption>
+      </topicref>
+      <topicref type="topic" id="43009756764070" build="ALL" modified="2017-10-13T10:53:35.037Z" icon="0" href="module_6_3">
+        <caption translate="true">小信号输出适配器</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="43009261460823" modified="2017-10-13T13:00:50.521Z" icon="0" href="module_7">
+    <caption translate="true">常见问题</caption>
+  </topicref>
+</map>
